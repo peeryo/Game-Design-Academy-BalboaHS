@@ -16,7 +16,7 @@ timezone:
 
 title: Game-Design-Academy-BalboaHS # the main title
 
-tagline: Independent Creative Problem Solvers # it will display as the subtitle
+tagline: We Are Independent Creative Problem Solvers # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Building the next generation of independent, creative, problem solvers, one line of code at a time.
@@ -35,7 +35,7 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Owen Peery
-  email: example@domain.com # change to your email address
+  email: peeryo@sfusd.edu # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/owenpeery # change to your Twitter homepage
